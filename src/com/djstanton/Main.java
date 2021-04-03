@@ -11,5 +11,6 @@ public class Main {
         Point point = new Point();
         System.out.println("distance()= " + point.distance());
         System.out.println("testing git");
+        System.out.println("testing fetch");
     }
 }
