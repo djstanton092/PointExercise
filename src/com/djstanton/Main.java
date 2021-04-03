@@ -10,5 +10,6 @@ public class Main {
         System.out.println("distance(2,2)= " + first.distance(2, 2));
         Point point = new Point();
         System.out.println("distance()= " + point.distance());
+        System.out.println("testing git");
     }
 }
